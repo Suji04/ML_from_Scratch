@@ -2,8 +2,8 @@
 Trying to implement basic ml algorithms from scratch in python. I have also made videos explaining these algorithms...
 
 ## Gradient Descent
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/36zkIAAUcZ4/mqdefault.jpg?time=1587571216056&sqp=CIDUgfUF&rs=AOn4CLBxzE9AugNr3ADl9Q6PdVghLIQ0qA)](https://youtu.be/36zkIAAUcZ4)
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/41BiBUZbg9U/mqdefault.jpg?time=1587570852769&sqp=CKjPgfUF&rs=AOn4CLDWUtOzlAtFPpP9ByBdgxSsU66j2g)](https://youtu.be/41BiBUZbg9U)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/36zkIAAUcZ4/hqdefault.jpg)](https://youtu.be/36zkIAAUcZ4)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/41BiBUZbg9U/mqdefault.jpg)](https://youtu.be/41BiBUZbg9U)
 
 
 ## Linear Regression
