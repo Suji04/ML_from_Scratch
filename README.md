@@ -17,3 +17,6 @@ Trying to implement basic ml algorithms from scratch in python. I have also made
 
 ## KNN
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/0RwM2BaLNkE/mqdefault.jpg)](https://youtu.be/0RwM2BaLNkE)
+
+## K-means
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/IB9WfafBmjk/mqdefault.jpg)](https://youtu.be/IB9WfafBmjk)
