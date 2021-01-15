@@ -20,3 +20,6 @@ Trying to implement basic ml algorithms from scratch in python. I have also made
 
 ## K-means
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/IB9WfafBmjk/mqdefault.jpg)](https://youtu.be/IB9WfafBmjk)
+
+## Decision Tree Classification
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/ZVR2Way4nwQ/mqdefault.jpg)](https://youtu.be/ZVR2Way4nwQ)
