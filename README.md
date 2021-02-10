@@ -30,3 +30,17 @@ Trying to implement basic ml algorithms from scratch in python. I have also made
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/UhY5vPfQIrA/mqdefault.jpg)](https://youtu.be/UhY5vPfQIrA)
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/sgQAhG5Q7iY/mqdefault.jpg)](https://youtu.be/sgQAhG5Q7iY)
 
+### Data source
+- airfoil_noise_data.csv
+
+  https://archive.ics.uci.edu/ml/datasets/airfoil+self-noise
+
+  Donor:
+  Dr Roberto Lopez
+  robertolopez '@' intelnics.com
+  Intelnics
+
+  Creators:
+  Thomas F. Brooks, D. Stuart Pope and Michael A. Marcolini
+  NASA
+
