@@ -28,7 +28,7 @@ Trying to implement basic ml algorithms from scratch in python. I have also made
 
 ## Decision Tree Regression
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/UhY5vPfQIrA/mqdefault.jpg)](https://youtu.be/UhY5vPfQIrA)
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/sgQAhG5Q7iY/mqdefault.jpg)](https://youtu.be/sgQAhG5Q7iY)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/P2ZB8c5Ha1Q/mqdefault.jpg)](https://youtu.be/P2ZB8c5Ha1Q)
 
 ## Data source
 - airfoil_noise_data.csv (converted from the .dat file available at https://archive.ics.uci.edu/ml/datasets/airfoil+self-noise) 
