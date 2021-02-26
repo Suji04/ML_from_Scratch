@@ -31,6 +31,7 @@ Trying to implement basic ml algorithms from scratch in python. I have also made
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/P2ZB8c5Ha1Q/mqdefault.jpg)](https://youtu.be/P2ZB8c5Ha1Q)
 
 ## Naive Bayes Classification
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/lFJbZ6LVxN8/mqdefault.jpg)](https://youtu.be/lFJbZ6LVxN8)
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/3I8oX3OUL6I/mqdefault.jpg)](https://youtu.be/3I8oX3OUL6I)
 
 ## Data source
